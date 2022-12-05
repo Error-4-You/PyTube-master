@@ -4,13 +4,11 @@
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
-```bash
-bash <(curl -s https://raw.githubusercontent.com/Manisso/PyTube/master/install.sh)
-```
+
 
 # Contributors
 
-[thehappydinoa](https://github.com/thehappydinoa)
+[ERROR](https://github.com/Error-4-You)
 
 # License
 
